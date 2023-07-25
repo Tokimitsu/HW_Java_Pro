@@ -1,0 +1,7 @@
+Amanda-[auto: BMW ::: salary: 4000] 
+Sarah-[auto: MERCEDES ::: salary: 7600] 
+Mark-[auto: MERCEDES ::: salary: 3600] 
+Mark-[auto: AUDI ::: salary: 4200] 
+Betty-[auto: MERCEDES ::: salary: 5000] 
+Michael-[auto: MERCEDES ::: salary: 5300] 
+Jessica-[auto: AUDI ::: salary: 7300] 
